@@ -1,0 +1,16 @@
+
+# [en]
+#   title = "Clarity"
+#   LanguageName = "English"
+#   weight = 1
+
+# [pt]
+#   title = "Claridade" # just for the sake of showing this is possible
+#   LanguageName = "Português"
+#   weight = 2
+
+  
+[zh]
+  title = "刘奇的Blog"
+  LanguageName = "中文"
+  weight = 3
